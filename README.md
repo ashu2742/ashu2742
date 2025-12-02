@@ -3,7 +3,7 @@ I am a dedicated and detail-oriented learner currently building my skills in Pyt
 
 Technical Skills :-
 
-      Languages: Python, C (Basics)
+      Languages: Python
       Database: MySQL
       Tools & Platforms: Git, GitHub, VS Code
       Areas of Interest: Automation scripts, CLI tools, APIs, Data Handling
